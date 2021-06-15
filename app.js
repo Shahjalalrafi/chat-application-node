@@ -46,5 +46,5 @@ app.use(errorHandler)
 
 // app listen 
 app.listen(process.env.PORT, () => {
-    console.log(`app listenning on port ${process.env.PORT}`)
+    console.log(`listenng from port ${process.env.PORT}`)
 })
